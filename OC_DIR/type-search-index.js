@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"operaciones","l":"CalculadoraDistancias"},{"p":"aplicacion","l":"Main"}]
